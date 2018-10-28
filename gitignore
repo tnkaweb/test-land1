@@ -1,0 +1,29 @@
+*.swp
+*~
+.adea
+build
+nodu-modules
+.DS_Store
+Thumbs.db
+.project
+.svn
+.nvm-version
+node_modules
+npm-debug.log
+debug.log
+/tags
+/atom-shell/
+/out/
+docs/output
+docs/includes
+spec/fixtures/evil-files/
+out/
+### windows templates
+# windows image file coches
+Thumbs.db
+ehthumbs.db
+#Folder config file
+desktop.ini
+
+# Recycle bib used on file shares
+$Recycle.bin
